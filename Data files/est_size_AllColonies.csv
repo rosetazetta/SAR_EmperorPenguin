@@ -1,72 +1,1 @@
-﻿site_id,colony_x,site_name,avg_size,avg_size-sd,source,years,n_years,method
-AMAN,Amanda Bay,Amanda,4428,655,LaRue et al. 2024,2009–2018,10,VHR
-AMUN,Amundsen Bay,Amundsen,60,46,LaRue et al. 2024,2009–2018,10,VHR
-ASTD,Astrid,Astrid,3217,421,LaRue et al. 2024,2009–2018,10,VHR
-ATKA,Atka,Atka,4522,1438,Fretwell et al. 2025,2009–2023,15,VHR
-AUST,Auster,Auster,4019,907,LaRue et al. 2024,2009–2018,10,VHR
-BARR,Barrier Bay,Barrier,0,0,Wienecke et al. 2024,2021-2025,5,VHR
-BEAN,Beaufort Island,Beaufort,1019,403,Foster-Dyer et al. 2026,2000–2024,25,VHR
-BEAR,Bear Peninsula,Bear,3728,1469,LaRue et al. 2024,2009–2018,10,VHR
-BOWM,Bowman Island,Bowman,1416,652,LaRue et al. 2024,2009–2018,10,VHR
-BRYA,Bryan Coast,Bryan,1350,666,Fretwell et al. 2025,2009–2023,15,VHR
-BSON,Brownson Islands,Brownson,3686,1260,LaRue et al. 2024,2009–2018,10,VHR
-CASE,Case Island ,Case,750,250,Fretwell et al. preprint,2023,1,Sentinel-2
-CBEK,Cape Colbeck,Colbeck,25979,8669,Foster-Dyer et al. 2026,2005–2024,20,VHR
-COUL,Coulman Island,Coulman,21375,5727,Foster-Dyer et al. 2026,2005–2024,20,VHR
-CPDR,Cape Darlington ,Darlington,300,,Fretwell et al. preprint,2023,1,VHR count
-CPGT,Cape Gates,Gates,4500,1500,Fretwell & Trathan 2020,2019,3,Sentinel-2
-CPST,Cape Poinsett,Pointsett,1500,500,Fretwell & Trathan 2020,2019,3,Sentinel-2
-CROZ,Cape Crozier,Crozier,921,383,Foster-Dyer et al. 2026,2001–2024,24,VHR
-CRZI,Cruzen Island,Cruzen,1000,,Fretwell & Trathan 2020,2019,1,Sentinel-2
-CSBY,Casey Bay,Casey,500,500,Fretwell & Trathan 2020,2019,1,Sentinel-2
-DARN,Cape Darnley,Darnley,3446,585,LaRue et al. 2024,2009–2018,10,VHR
-DAWS,Dawson,Dawson,5576,3021,Fretwell et al. 2025,2009–2023,15,VHR
-DBAY,Davis Bay,Davis,2220,309,LaRue et al. 2024,2009–2018,10,VHR
-DIBB,Dibble Glacier,Dibble,9894,1379,LaRue et al. 2024,2009–2018,10,VHR
-DION,Dion Island,Dion ,0,0,Trathan et al. 2011,2009,1,VHR
-DOLL,Dolleman,Dolleman,4308,469,Fretwell et al. 2025,2009–2023,15,VHR
-DRES,Drescher,Drescher,8354,2378,Fretwell et al. 2025,2009–2023,15,VHR
-FOLD,Fold Island,Fold,285,105,LaRue et al. 2024,2009–2018,10,VHR
-FRAN,Franklin Island,Franklin,4574,1010,Foster-Dyer et al. 2026,2001–2024,24,VHR
-GOUL,Gould,Gould,3481,926,Fretwell et al. 2025,2009–2023,15,VHR
-GPIR,Gipps Ice Rise,Gipps,200,,Fretwell 2024,2016,1,VHR count 
-GUNN,Gunnerus,Gunnerus,2863,1158,LaRue et al. 2024,2009–2018,10,VHR
-HALY,Halley,Halley,841,799,Fretwell et al. 2025,2023,1,VHR
-HASW,Haswell Island,Haswell,3506,1279,LaRue et al. 2024,2009–2018,10,VHR
-JASN,Jason,Jason,2058,528,Fretwell et al. 2025,2009–2023,15,VHR
-KLOA,Kloa Point,Kloa,1401,629,LaRue et al. 2024,2009–2018,10,VHR
-KRLB,Karelin Bay,Karelin,300,300,Fretwell & Trathan 2020,2019,1,Sentinel-2
-LATA,Lataday Island,Lataday,1400,500,Fretwell et al. preprint,2024,1,VHR estimate
-LAZA,Lazarev,Lazarev,226,213,LaRue et al. 2024,2009–2018,10,VHR
-LEDD,Ledda Bay,Ledda,467,682,LaRue et al. 2024,2009–2018,10,VHR
-LUIT,Luitpold,Luitpold,3890,864,Fretwell et al. 2025,2009–2023,15,VHR
-MERT,Mertz,Mertz,4487,2521,LaRue et al. 2024,2009–2018,10,VHR
-NNBK,Ninnis Bank,Ninnis,3000,1000,Fretwell & Trathan 2020,2019,1,Sentinel-2
-NOVI,Noville Peninsula,Noville,2986,777,LaRue et al. 2024,2009–2018,10,VHR
-PFPT,Pfrogner Point,Pfrogner,1500,500,Fretwell & Trathan 2020,2019,1,Sentinel-2
-PGEO,Point Geologie,Geologie,1625,479,LaRue et al. 2024,2009–2018,10,VHR
-PHNX,Phoenix ,Phoenix,1350,500,Fretwell et al. preprint,2025,1,VHR estimate
-POSA,Posadowsky Bay ,Posadowsky,123,,Wienecke et al. 2024,2022,1,Aerial count
-PPBY,Porpoise Bay,Porpoise,200,,Fretwell & Trathan 2020,2019,1,Sentinel-2
-PSON,Peterson Bank,Peterson,1794,624,LaRue et al. 2024,2009–2018,10,VHR
-RAGN,Ragnhild,Ragnhild,4784,1481,LaRue et al. 2024,2009–2018,10,VHR
-RIIS,Riiser,Riiser,5310,834,Fretwell et al. 2025,2009–2023,15,VHR
-ROGE,Cape Roget,Roget,6012,934,Foster-Dyer et al. 2026,2004–2024,21,VHR
-ROTS,Rothschild,Rothschild,828,267,Fretwell et al. 2025,2009–2023,15,VHR
-RUPE,Rupert Coast,Rupert,1650,890,LaRue et al. 2024,2009–2018,10,VHR
-SABC,Sabrina Coast,Sabrina,672,,Wienecke et al. 2024,2022,1,Aerial count
-SANA,Sanae,Sanae,3352,955,Fretwell et al. 2025,2009–2023,15,VHR
-SHAC,Shackleton Ice shelf,Shackleton,3263,1949,LaRue et al. 2024,2009–2018,10,VHR
-SMTH,Smith,Smith,2477,1085,Fretwell et al. 2025,2009–2023,15,VHR
-SMYL,Smyley,Smyley,2792,1160,Fretwell et al. 2025,2009–2023,15,VHR
-SNOW,Snow Hill,Snow Hill,4032,930,Fretwell et al. 2025,2009–2023,15,VHR
-STCB,Stancomb,Stancomb,4794,1126,Fretwell et al. 2025,2009–2023,15,VHR
-TAYG,Taylor Glacier,Taylor,804,93,LaRue et al. 2024,2009–2018,10,VHR
-THUR,Thurston Glacier,Thurston,2733,1215,LaRue et al. 2024,2009–2018,10,VHR
-UMBE,Umbeosi,Umbeosi,110,97,LaRue et al. 2024,2009–2018,10,VHR
-VDIT,Verdi Inlet,Verdi,1500,500,Fretwell & Trathan 2020,2019,1,Sentinel-2
-VHFN,Vanhoeffen,Vanhoeffen,5000,,Fretwell 2024,2018-2022,5,VHR count
-VLPT,Verleger Point,Verleger,500,,Fretwell 2024,2018-2022,5,VHR count
-WASH,Cape Washington,Washington,12271,1990,Foster-Dyer et al. 2026,2004–2024,21,VHR
-WEST,West Iceshelf ,West Ice Shelf,2480,,Wienecke et al. 2024,2022,1,Aerial count
-YLBY,Yule Bay,Yule,300,,Fretwell & Trathan 2020,2019,1,Sentinel-2
+﻿site_id,colony_x,site_name,avg_size,avg_size-sd,source,years,n_years,methodAMAN,Amanda Bay,Amanda,4428,655,LaRue et al. 2024,2009–2018,10,VHRAMUN,Amundsen Bay,Amundsen,60,46,LaRue et al. 2024,2009–2018,10,VHRASTD,Astrid,Astrid,3217,421,LaRue et al. 2024,2009–2018,10,VHRATKA,Atka,Atka,4522,1438,Fretwell et al. 2025,2009–2023,15,VHRAUST,Auster,Auster,4019,907,LaRue et al. 2024,2009–2018,10,VHRBARR,Barrier Bay,Barrier,0,0,Wienecke et al. 2024,2021-2025,5,VHRBEAN,Beaufort Island,Beaufort,1019,403,Foster-Dyer et al. 2026,2000–2024,25,VHRBEAR,Bear Peninsula,Bear,3728,1469,LaRue et al. 2024,2009–2018,10,VHRBOWM,Bowman Island,Bowman,1416,652,LaRue et al. 2024,2009–2018,10,VHRBRYA,Bryan Coast,Bryan,1350,666,Fretwell et al. 2025,2009–2023,15,VHRBSON,Brownson Islands,Brownson,3686,1260,LaRue et al. 2024,2009–2018,10,VHRCASE,Case Island ,Case,750,250,Fretwell et al. preprint,2023,1,Sentinel-2CBEK,Cape Colbeck,Colbeck,25979,8669,Foster-Dyer et al. 2026,2005–2024,20,VHRCOUL,Coulman Island,Coulman,21375,5727,Foster-Dyer et al. 2026,2005–2024,20,VHRCPDR,Cape Darlington ,Darlington,300,,Fretwell et al. preprint,2023,1,VHR countCPGT,Cape Gates,Gates,4500,1500,Fretwell & Trathan 2020,2019,3,Sentinel-2CPST,Cape Poinsett,Pointsett,1500,500,Fretwell & Trathan 2020,2019,3,Sentinel-2CROZ,Cape Crozier,Crozier,921,383,Foster-Dyer et al. 2026,2001–2024,24,VHRCRZI,Cruzen Island,Cruzen,1000,,Fretwell & Trathan 2020,2019,1,Sentinel-2CSBY,Casey Bay,Casey,500,500,Fretwell & Trathan 2020,2019,1,Sentinel-2DARN,Cape Darnley,Darnley,3446,585,LaRue et al. 2024,2009–2018,10,VHRDAWS,Dawson,Dawson,5576,3021,Fretwell et al. 2025,2009–2023,15,VHRDBAY,Davis Bay,Davis,2220,309,LaRue et al. 2024,2009–2018,10,VHRDIBB,Dibble Glacier,Dibble,9894,1379,LaRue et al. 2024,2009–2018,10,VHRDION,Dion Island,Dion ,0,0,Trathan et al. 2011,2009,1,VHRDOLL,Dolleman,Dolleman,4308,469,Fretwell et al. 2025,2009–2023,15,VHRDRES,Drescher,Drescher,8354,2378,Fretwell et al. 2025,2009–2023,15,VHRFOLD,Fold Island,Fold,285,105,LaRue et al. 2024,2009–2018,10,VHRFRAN,Franklin Island,Franklin,4574,1010,Foster-Dyer et al. 2026,2001–2024,24,VHRGOUL,Gould,Gould,3481,926,Fretwell et al. 2025,2009–2023,15,VHRGPIR,Gipps Ice Rise,Gipps,200,,Fretwell 2024,2016,1,VHR count GUNN,Gunnerus,Gunnerus,2863,1158,LaRue et al. 2024,2009–2018,10,VHRHALY,Halley,Halley,841,799,Fretwell et al. 2025,2023,1,VHRHASW,Haswell Island,Haswell,3506,1279,LaRue et al. 2024,2009–2018,10,VHRJASN,Jason,Jason,2058,528,Fretwell et al. 2025,2009–2023,15,VHRKLOA,Kloa Point,Kloa,1401,629,LaRue et al. 2024,2009–2018,10,VHRKRLB,Karelin Bay,Karelin,300,300,Fretwell & Trathan 2020,2019,1,Sentinel-2LATA,Lataday Island,Lataday,1400,500,Fretwell et al. preprint,2024,1,VHR estimateLAZA,Lazarev,Lazarev,226,213,LaRue et al. 2024,2009–2018,10,VHRLEDD,Ledda Bay,Ledda,467,682,LaRue et al. 2024,2009–2018,10,VHRLUIT,Luitpold,Luitpold,3890,864,Fretwell et al. 2025,2009–2023,15,VHRMERT,Mertz,Mertz,4487,2521,LaRue et al. 2024,2009–2018,10,VHRNNBK,Ninnis Bank,Ninnis,3000,1000,Fretwell & Trathan 2020,2019,1,Sentinel-2NOVI,Noville Peninsula,Noville,2986,777,LaRue et al. 2024,2009–2018,10,VHRPFPT,Pfrogner Point,Pfrogner,1500,500,Fretwell & Trathan 2020,2019,1,Sentinel-2PGEO,Point Geologie,Geologie,1625,479,LaRue et al. 2024,2009–2018,10,VHRPHNX,Phoenix ,Phoenix,1350,500,Fretwell et al. preprint,2025,1,VHR estimatePOSA,Posadowsky Bay ,Posadowsky,123,,Wienecke et al. 2024,2022,1,Aerial countPPBY,Porpoise Bay,Porpoise,200,,Fretwell & Trathan 2020,2019,1,Sentinel-2PSON,Peterson Bank,Peterson,1794,624,LaRue et al. 2024,2009–2018,10,VHRRAGN,Ragnhild,Ragnhild,4784,1481,LaRue et al. 2024,2009–2018,10,VHRRIIS,Riiser,Riiser,5310,834,Fretwell et al. 2025,2009–2023,15,VHRROGE,Cape Roget,Roget,6012,934,Foster-Dyer et al. 2026,2004–2024,21,VHRROTS,Rothschild,Rothschild,828,267,Fretwell et al. 2025,2009–2023,15,VHRRUPE,Rupert Coast,Rupert,1650,890,LaRue et al. 2024,2009–2018,10,VHRSABC,Sabrina Coast,Sabrina,672,,Wienecke et al. 2024,2022,1,Aerial countSANA,Sanae,Sanae,3352,955,Fretwell et al. 2025,2009–2023,15,VHRSHAC,Shackleton Ice shelf,Shackleton,3263,1949,LaRue et al. 2024,2009–2018,10,VHRSMTH,Smith,Smith,2477,1085,Fretwell et al. 2025,2009–2023,15,VHRSMYL,Smyley,Smyley,2792,1160,Fretwell et al. 2025,2009–2023,15,VHRSNOW,Snow Hill,Snow Hill,4032,930,Fretwell et al. 2025,2009–2023,15,VHRSTCB,Stancomb,Stancomb,4794,1126,Fretwell et al. 2025,2009–2023,15,VHRTAYG,Taylor Glacier,Taylor,804,93,LaRue et al. 2024,2009–2018,10,VHRTHUR,Thurston Glacier,Thurston,2733,1215,LaRue et al. 2024,2009–2018,10,VHRUMBE,Umbeosi,Umbeosi,110,97,LaRue et al. 2024,2009–2018,10,VHRVDIT,Verdi Inlet,Verdi,1500,500,Fretwell & Trathan 2020,2019,1,Sentinel-2VHFN,Vanhoeffen,Vanhoeffen,5000,,Fretwell 2024,2018-2022,5,VHR countVLPT,Verleger Point,Verleger,500,,Fretwell 2024,2018-2022,5,VHR countWASH,Cape Washington,Washington,12271,1990,Foster-Dyer et al. 2026,2004–2024,21,VHRWEST,West Iceshelf ,West Ice Shelf,2480,,Wienecke et al. 2024,2022,1,Aerial countYLBY,Yule Bay,Yule,300,,Fretwell & Trathan 2020,2019,1,Sentinel-2

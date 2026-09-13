@@ -1,6 +1,6 @@
 # Midwinter radar imaging establishes first breeding population baseline for the endangered emperor penguin
 
-Dataset DOI: [10.5061/dryad.ngf1vhj9j](https://doi.org/10.5061/dryad.ngf1vhj9j)
+Dataset DOI: 10.6084/m9.figshare.33582190
 
 ## Description of the data and file structure
 
